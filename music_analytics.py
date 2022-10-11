@@ -20,7 +20,7 @@ Search_button = st.button("Search")
 if search_input is not None and len (search_input)> 0:
     if search_selection == "Track":
         st.write("Search for Track")
-        tracks = sp.search(q='track:'+search_input,type='artist', limit=10)
+        tracks = sp.search(q='track:'+search_input,type='track', limit=10)
         tracks_list = tracks['tracks']['items']
         if len(tracks_list)> 0:
             for track in tracks_list:
