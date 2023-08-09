@@ -31,4 +31,4 @@ To get started with this project, follow these steps:
 3. Run the Python scripts to generate music recommendations.
 4. Customize and enhance the project based on your interests and insights.
 
-Feel free to contribute to the project by adding new features, improving the user interface, or enhancing the analytics algorithms. We welcome your input!
+Feel free to contribute to the project by adding new features, improving the user interface, or enhancing the analytics algorithms. I welcome your input!
