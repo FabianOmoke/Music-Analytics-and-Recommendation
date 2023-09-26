@@ -20,7 +20,7 @@ Welcome to the **Music Analytics and Recommendation** project repository! This p
 ## Updates
 
 - Updated features and user interface in various files.
-- Last update: 10 months ago.
+- Last update: 2 months ago.
 
 ## Getting Started
 
