@@ -7,8 +7,8 @@ import track_recommendations
 # Spotify Initialization
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-SPOTIFY_CLIENT_ID = '2ec294682f3d4d53a0b933dc486bd294'
-SPOTIFY_CLIENT_SECRET = '4c3845c0b99442239e636930b6410122'
+SPOTIFY_CLIENT_ID = YOUR CLIENT ID
+SPOTIFY_CLIENT_SECRET = YOUR CLIENT SECRET
 # SPOTIFY_REDIRECT_URI = ''
 auth_manager = SpotifyClientCredentials(client_id=SPOTIFY_CLIENT_ID, client_secret=SPOTIFY_CLIENT_SECRET)
 sp = spotipy.Spotify(auth_manager=auth_manager)
